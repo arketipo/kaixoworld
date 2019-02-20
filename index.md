@@ -1,10 +1,14 @@
-## Prueba para la web de KaixoWorld 2019
+## IV KaixoWorld - 2019
 
-El 16 de mayo a las 9 en el Polo de Innovación Garaia de Enpresa Digitala
 
 ### HORARIO
 
+El 16 de mayo a las 9 en el 
+
 ### LOCALIZACIÓN
+
+El 16 de mayo a las 9 en el 
+
 
 ### PONENTES
 
