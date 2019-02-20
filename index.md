@@ -1,17 +1,25 @@
 ## Prueba para la web de KaixoWorld 2019
 
-You can use the [editor on GitHub](https://github.com/arketipo/kaixoworld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+El 16 de mayo a las 9 en el Polo de Innovación Garaia de Enpresa Digitala
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Ponentes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Zuriñe Menéndez
+
+
+#### Jorge Aznar
+
+
+#### Maite
+
+
+#### Jesús Gallent
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Un evento sobre tecnologías FrontEnd
 ## Header 2
 ### Header 3
 
